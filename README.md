@@ -10,7 +10,7 @@ The script demostrates how to use Node.js to bulk retrieve account-level suppres
 Run
 ```
 node retrieve-all-suppressed-destination.js
-``
+```
 # Example output
 Output in file `suppressed-list.json`.
 
