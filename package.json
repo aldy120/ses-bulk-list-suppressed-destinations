@@ -1,0 +1,15 @@
+{
+  "name": "list-all-supporessed-destinations",
+  "version": "1.0.0",
+  "description": "node retrieve-all-suppressed-destination.js",
+  "main": "retrieve-all-suppressed-destination.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.766.0"
+  },
+  "devDependencies": {}
+}
